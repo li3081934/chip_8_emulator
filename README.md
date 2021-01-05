@@ -1,2 +1,5 @@
-# chip_8_emulator
-A emulator of chip8 ,create by javascript
+# webpack-typescript-starter
+a starter with webpack and typescript
+
+TODO:
+1. sass
